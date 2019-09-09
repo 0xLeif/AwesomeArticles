@@ -3,6 +3,10 @@ Articles I like
 
 ## Swift Topics
 
+### SwiftUI
+
+- [F*ing SwiftUI](https://fuckingswiftui.com)
+- [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 
 ### Language Features
 
