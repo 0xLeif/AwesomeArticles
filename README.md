@@ -37,6 +37,15 @@ Articles I like
 - [Tips for SpriteKit](https://www.hackingwithswift.com/articles/184/tips-to-optimize-your-spritekit-game)
 - [Visual Editor](https://simonfairbairn.com/external-libraries-spritekit-visual-editor/)
 
+### Advanced SpriteKit
+
+- [Kinematic](https://www.raywenderlich.com/1158-spritekit-and-inverse-kinematics-with-swift)
+
+#### Shaders in SpriteKit
+
+- [Shatter Effect](http://sound-of-silence.com/?article=20180801)
+- [Liquid Effect](http://sound-of-silence.com/?article=20180806)
+
 ### GameplayKit
 
 - [About GameplayKit](https://developer.apple.com/library/archive/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1)
