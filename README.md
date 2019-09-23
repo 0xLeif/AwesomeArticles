@@ -8,8 +8,34 @@ Articles I like
 - [F*ing SwiftUI](https://fuckingswiftui.com)
 - [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 
+### Metal
+
+- [MetalKit.org](http://metalkit.org)
+- [Metal by Example](http://metalbyexample.com)
+
+### AR
+
+- [ARKit + Vision](https://dev.to/jordanosterberg/arkit--vision-an-intriguing-combination)
+- [ARKit Drawing](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
+
+### SceneKit
+
+### SpriteKit
+
+### GameplayKit
+
+- [About GameplayKit](https://developer.apple.com/library/archive/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1)
+- [Intro to GameplayKit 1-3](https://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-1--cms-24483)
+- [Grid Based Path Finding](http://www.jonathanfischer.net/lets-build-gameplaykit-grid-pathfinding/)
+- [Physics Component](https://simonfairbairn.com/physics-component-for-entity-component-system-spritekit/)
+
+### Core ML
+
+- [Core ML Blog](http://machinethink.net/blog/)
+
 ### Language Features
 
+- [Syntax](https://nshipster.com/swiftsyntax/)
 - [Subscripts](https://www.swiftbysundell.com/posts/the-power-of-subscripts-in-swift)
 - [Computed Properties](https://www.swiftbysundell.com/posts/computed-properties-in-swift)
 - [Phantom Types](https://www.swiftbysundell.com/posts/phantom-types-in-swift)
