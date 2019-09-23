@@ -20,6 +20,12 @@ Articles I like
 
 ### SceneKit
 
+- [Intro to SceneKit](https://www.weheartswift.com/introduction-scenekit-part-1/)
+- [Terrain Mesh OBJ-C](https://github.com/matthewreagan/TerrainMesh3D)
+- [Terrain Mesh Swift](https://github.com/zmeriksen/SceneKitTerrainGeneration)
+- [Weather](https://blog.mapbox.com/3d-weather-with-scenekit-aka-karl-the-fog-in-ar-931cff1c1c7c)
+- [Final Touches](https://blog.novoda.com/adding-the-finishing-touches-to-3d-models-in-xcode/)
+
 ### SpriteKit
 
 - [Basic SpriteKit Animations](https://www.swiftbysundell.com/articles/using-spritekit-to-create-animations-in-swift/)
