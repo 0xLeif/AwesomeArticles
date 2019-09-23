@@ -56,6 +56,9 @@ Articles I like
 ### Core ML
 
 - [Core ML Blog](http://machinethink.net/blog/)
+- [Core ML 3 What's New](https://heartbeat.fritz.ai/whats-new-in-core-ml-3-d108d352e50a)
+- [Core ML 3 Dive](https://machinethink.net/blog/new-in-coreml3/)
+- [Core ML + Keras](https://www.raywenderlich.com/188-beginning-machine-learning-with-keras-core-ml)
 
 ### Language Features
 
