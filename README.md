@@ -10,8 +10,26 @@ Articles I like
 
 ### Metal
 
+- [Metal Github Examples](https://github.com/dehesa/Metal)
 - [MetalKit.org](http://metalkit.org)
 - [Metal by Example](http://metalbyexample.com)
+- [What is Metal](https://donaldpinckney.com/metal/2018/07/05/metal-intro-1.html)
+- [Intro into Metal](https://academy.realm.io/posts/3d-graphics-metal-swift/)
+- [Praise the Metal Series Parts 0 - 5](https://crimild.wordpress.com/2016/05/16/praise-the-metal-prelude/)
+- [First Circle with Shader](https://medium.com/@barbulescualex/making-your-first-circle-using-metal-shaders-1e5049ec8505)
+- [Metal Rendering Pipeline](https://www.raywenderlich.com/5493-metal-rendering-pipeline-tutorial)
+- [Writing a Modern Metal App from Scratch](http://metalbyexample.com/modern-metal-1/)
+- [Getting Started Part 1](https://www.raywenderlich.com/7475-metal-tutorial-getting-started)
+- [Getting Started Part 2](https://www.raywenderlich.com/728-metal-tutorial-with-swift-3-part-2-moving-to-3d)
+- [LiquidFun Part 1](https://www.raywenderlich.com/2061-liquidfun-tutorial-with-metal-and-swift-part-1)
+- [LiquidFun Part 2](https://www.raywenderlich.com/2055-liquidfun-tutorial-with-metal-and-swift-part-2)
+- [Vertex Data and Descriptors](http://metalbyexample.com/vertex-descriptors/)
+- [Picking and Hit-Testing](http://metalbyexample.com/picking-hit-testing/)
+- [Textures and Samplers](http://metalbyexample.com/textures-and-samplers/)
+- [Instanced Rendering](http://metalbyexample.com/instanced-rendering/)
+- [Deformable Mesh](https://github.com/lachlanhurst/SceneKitMetalDeformableMesh)
+- [Metal Performance Shaders](http://metalbyexample.com/metal-performance-shaders-in-swift/)
+- [OpenGL to Metal](https://www.raywenderlich.com/9211-moving-from-opengl-to-metal)
 
 ### AR
 
@@ -21,10 +39,19 @@ Articles I like
 ### SceneKit
 
 - [Intro to SceneKit](https://www.weheartswift.com/introduction-scenekit-part-1/)
+- [SceneKit Basics](https://www.objc.io/issues/18-games/scenekit/)
 - [Terrain Mesh OBJ-C](https://github.com/matthewreagan/TerrainMesh3D)
 - [Terrain Mesh Swift](https://github.com/zmeriksen/SceneKitTerrainGeneration)
 - [Weather](https://blog.mapbox.com/3d-weather-with-scenekit-aka-karl-the-fog-in-ar-931cff1c1c7c)
+- [Weather Github](https://github.com/mapbox/scenekit-volumetric-weather)
 - [Final Touches](https://blog.novoda.com/adding-the-finishing-touches-to-3d-models-in-xcode/)
+
+#### Shaders in SceneKit
+
+- [Basic Metal Shader](http://redqueengraphics.com/2018/03/11/metal-integration-with-scenekit-scnshadable-fragment-injection/)
+- [Intro to Shaders](https://medium.com/@maxxfrazer/arkit-scenekit-shaders-intro-99df65137006)
+- [SCNTechnique](http://blog.simonrodriguez.fr/articles/26-08-2015_a_few_scntechnique_examples.html)
+- [SCNTechnique Github](https://github.com/kosua20/Technique-iOS)
 
 ### SpriteKit
 
