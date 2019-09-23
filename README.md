@@ -22,6 +22,21 @@ Articles I like
 
 ### SpriteKit
 
+- [Basic SpriteKit Animations](https://www.swiftbysundell.com/articles/using-spritekit-to-create-animations-in-swift/)
+- [Drag and Drop Sprites](https://www.raywenderlich.com/1748-sprite-kit-tutorial-drag-and-drop-sprites)
+- [Trigonometry](https://www.raywenderlich.com/5504-trigonometry-for-game-programming-spritekit-and-swift-tutorial-part-1-2)
+- [SpriteKit for Beginners](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners)
+- [Create a Children's Book](https://www.raywenderlich.com/767-spritekit-tutorial-create-an-interactive-children-s-book-with-spritekit-and-swift-3)
+- [Crashy Plane Project](https://www.hackingwithswift.com/read/36/overview)
+- [Hot to Build a 2.5D Game](https://www.freecodecamp.org/news/spritekit-advanced-how-to-build-a-2-5d-game-part-i-2dc76c7c65e2/)
+- [Space Invaders](https://www.raywenderlich.com/1167-how-to-make-a-game-like-space-invaders-with-spritekit-and-swift-part-1)
+- [Jigsaw Puzzle](https://simonfairbairn.com/developing-jigsaw-puzzle-game-part-1-planning/)
+- [Cut the Rope](https://www.raywenderlich.com/735-how-to-make-a-game-like-cut-the-rope-using-spritekit-and-swift)
+- [Adding Contact Tests](https://simonfairbairn.com/spritekit-tutorial-adding-contact-tests/)
+- [Refactoring Components](https://simonfairbairn.com/refactoring-components-in-spritekit/)
+- [Tips for SpriteKit](https://www.hackingwithswift.com/articles/184/tips-to-optimize-your-spritekit-game)
+- [Visual Editor](https://simonfairbairn.com/external-libraries-spritekit-visual-editor/)
+
 ### GameplayKit
 
 - [About GameplayKit](https://developer.apple.com/library/archive/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1)
