@@ -122,7 +122,7 @@ Articles I like
 
 ### Memory
 
-- [Cahcing in Swift](https://www.swiftbysundell.com/posts/caching-in-swift)
+- [Caching in Swift](https://www.swiftbysundell.com/posts/caching-in-swift)
 - [Memory Leaks in Unit Tests](https://medium.com/swift-programming/memory-leaks-prevention-using-an-autoreleasepool-in-unit-tests-ccd6319979)
 
 ### Error Handling
