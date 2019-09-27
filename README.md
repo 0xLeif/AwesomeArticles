@@ -133,6 +133,10 @@ Articles I like
 
 - [Advanced lldb Tricks](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html)
 
+### Ubuntu
+
+- [Swift + X11](https://blog.alexcu.me/cross-platform-guis-in-swift/index.html)
+
 ## Rust Topics
 
 ### Introduction
