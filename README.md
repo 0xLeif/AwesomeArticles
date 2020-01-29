@@ -7,8 +7,15 @@ Articles I like
 
 - [F*ing SwiftUI](https://fuckingswiftui.com)
 - [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+- [Clean Architecture](https://nalexn.github.io/clean-architecture-swiftui/)
 
 ### UIKit
+
+- [UIView Animations](https://www.raywenderlich.com/5976-uiview-animations-tutorial-practical-recipes)
+- [Global Functions](https://medium.com/the-traveled-ios-developers-guide/uikit-global-functions-b38250c0ed5c)
+- [Clean Swift](https://rubygarage.org/blog/clean-swift-pros-and-cons)
+- [Clean Architecture](https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3)
+- [Coordinator](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
 
 #### Images
 
