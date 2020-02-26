@@ -3,6 +3,14 @@ Articles I like
 
 ## Swift Topics
 
+### Vapor
+
+- [SMS User Auth w/ AWS](https://www.raywenderlich.com/4379841-sms-user-authentication-with-vapor-and-aws)
+
+### Core Graphics
+
+- [Core Animation](https://developer.apple.com/documentation/quartzcore)
+
 ### SwiftUI
 
 - [F*ing SwiftUI](https://fuckingswiftui.com)
