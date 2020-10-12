@@ -36,6 +36,7 @@
 
 ## Metal
 
+- [Toy3D](https://markdaws.net/blog/2019-12-17-toy3d/)
 - [Metal Github Examples](https://github.com/dehesa/Metal)
 - [MetalKit.org](http://metalkit.org)
 - [Metal by Example](http://metalbyexample.com)
