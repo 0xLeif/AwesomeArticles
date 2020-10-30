@@ -2,7 +2,16 @@
 
 ## Vapor
 
+- [What's New in Vapor 4](https://theswiftdev.com/whats-new-in-vapor-4/)
+- [What's New in Leaf 4](https://theswiftdev.com/whats-new-in-leaf-4-tau/)
 - [SMS User Auth w/ AWS](https://www.raywenderlich.com/4379841-sms-user-authentication-with-vapor-and-aws)
+
+## NIO
+
+- [Apple Examples](https://github.com/apple/swift-nio-examples)
+- [A µTutorial on SwiftNIO 2](http://www.alwaysrightinstitute.com/microexpress-nio2/)
+- [SwiftNIO Tutorial: Practical Guide for Asynchronous Problems](https://www.raywenderlich.com/8016626-swiftnio-tutorial-practical-guide-for-asynchronous-problems)
+- [Event driven networking for Swift](https://www.youtube.com/embed/QJ3WG9kRLMo)
 
 ## Core Graphics
 
