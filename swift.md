@@ -1,5 +1,8 @@
 # Swift Topics
 
+## Advanced
+- [Method dispatching](https://trinhngocthuyen.github.io/posts/tech/method-dispatch-in-swift/)
+
 ## Vapor
 
 - [What's New in Vapor 4](https://theswiftdev.com/whats-new-in-vapor-4/)
